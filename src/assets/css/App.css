@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+/* sizing of map container for Leaflet*/
+
+.leaflet-container{
+  height: 500px;
+}

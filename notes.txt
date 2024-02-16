@@ -1,0 +1,46 @@
+API:
+
+https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2023-12-25&endtime=2023-12-28
+
+Web:
+
+https://www.usgs.gov/programs/earthquake-hazards
+
+Sección: Earthquakes > Real-time notifications > For developers > Api documentation
+
+Acceso al endpoint desde query:
+https://earthquake.usgs.gov/fdsnws/event/1/
+
+************************************************************************************************
+
+Leaflet react:
+
+https://react-leaflet.js.org/docs/example-layers-control/
+
+
+npm install leaflet
+npm install react-leaflet
+
+
+************************************************************************************************
+
+Intalación de Tailwind:
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+Add the paths to all of your template files in your tailwind.config.js file:
+
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+Add the @tailwind directives for each of Tailwind’s layers to your main CSS file:
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
