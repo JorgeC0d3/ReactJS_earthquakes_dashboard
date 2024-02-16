@@ -1,3 +1,6 @@
+
+![Captura de pantalla 2024-02-16 100248](https://github.com/JorgeC0d3/ReactJS_earthquakes_dashboard/assets/158076905/181f7132-6677-450e-9a34-060eb1416146)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
